@@ -1,5 +1,5 @@
 import java.util.*;
-public class Largest_4_dIGIT_nUMBERS {
+public class Largest_4_dIGIT_numbers {
     public static void main(String[] vk){
         Scanner sc = new Scanner(System.in);
         int n1 = sc.nextInt();
